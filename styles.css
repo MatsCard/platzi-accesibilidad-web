@@ -306,6 +306,12 @@ input:focus {
   border: 5px solid var(--gris-oscuro);
   outline: 3px solid var(--verde);
 }
+
+#name-error {
+  color: var(--blanco);
+  font-family: var(--secondary-font);
+}
+
 .notification {
   align-items: center;
   background-color: var(--verde);
